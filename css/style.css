@@ -25,6 +25,10 @@ h1 {
     padding: 0 15px;
     border-bottom: #0A98E8 3px solid;
 }
+
+h3 {
+    padding-top: 15px;
+}
 /* Text colors */
 .text-primary {
     color:  #0A98E8;
@@ -163,20 +167,21 @@ h1 {
     background: lightskyblue;
     border-bottom: #0A98E8 3px solid;
     padding: 0 20px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 .center {
     padding: 10px 40px;
 }
 
+.recenter {
+    padding: 0 20px;
+}
+
 .bold {
     font-weight: bold;
 }
 
-/* #line li { */
-    /* display: inline; */
-/* } */
 #line {
     display: flex;
     justify-content: space-around;
