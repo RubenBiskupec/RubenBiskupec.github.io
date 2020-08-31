@@ -170,6 +170,6 @@ h1 {
     padding: 10px 20px;
 }
 
-section div ul li a .social {
-    color: #333;
+.bold {
+    font-weight: bold;
 }
